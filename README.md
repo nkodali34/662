@@ -1,2 +1,2 @@
-#LAb 1
+#LAB 1
 In this lab we are modeling a Neural Network
