@@ -1,2 +1,2 @@
-# 662
-This is the README for the 662 repository.
+# 662 LAb 1
+In this lab we are modeling a Neural Network
