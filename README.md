@@ -1,2 +1,2 @@
-# 662 LAb 1
+#LAb 1
 In this lab we are modeling a Neural Network
